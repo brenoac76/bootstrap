@@ -1,0 +1,32 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;    
+}
+
+.container {
+    max-width: 1024px;
+    width: 100%;
+    margin: 0 auto;
+    margin-top: 50px;
+}
+
+#nome {
+    width: 400px;
+    margin-bottom: 8px;
+}
+#telefone {
+    width: 200px;
+    margin-bottom: 8px;
+    
+}
+#email {
+    width: 250px;
+    
+}
+#button {
+    margin-top: 8px;
+}
+
+
+
